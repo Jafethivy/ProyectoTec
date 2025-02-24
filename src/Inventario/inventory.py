@@ -1,0 +1,1 @@
+#Inicializa el inventario y lo administra con la db
